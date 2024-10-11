@@ -14,7 +14,7 @@ This repository serves as a comprehensive reference guide for Python developers.
 Feel free to explore the notebooks and use them as a reference while working on your Python projects. You can clone this repository and run the notebooks locally or view them directly on GitHub.
 
 ### Clone the Repository
-Hello world
+ 
 
 ```bash
 git clone https://github.com/your-username/Python-Developer-Course-References.git
